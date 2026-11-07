@@ -1,1 +1,1 @@
-* Hello from conflict
+* Hello from conflicted story
