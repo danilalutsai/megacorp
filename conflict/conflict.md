@@ -1,1 +1,1 @@
-* Bye bye from conflict branch
+* Hello from conflicted branch
