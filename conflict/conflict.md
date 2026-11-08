@@ -1,1 +1,1 @@
-* Hello from conflicted story
+* Bye bye from conflict branch
